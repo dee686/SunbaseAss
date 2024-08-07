@@ -67,6 +67,9 @@ This Customer Management Application allows users to manage customer records wit
 ### Frontend 
 
 - React
+- run command npm i
+- npm run dev
+- follow the link to get the frontend
 
 ## Usage
 
